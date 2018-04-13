@@ -3,3 +3,9 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+.btn
+{
+	padding: 10px 20px;
+	background-color: blue;
+}
